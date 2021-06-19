@@ -1,0 +1,11 @@
+.title {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+}
+
+.input {
+  padding: 5px;
+  border-radius: 5px;
+  border: none;
+}
